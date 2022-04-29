@@ -1,4 +1,4 @@
-## Hi, i’m @jmisilo 👋
+## Hi, I’m @jmisilo 👋
 
 🥰 You are in place where i'm doing some cool stuff. Something about me:
 
