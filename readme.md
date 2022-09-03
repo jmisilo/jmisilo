@@ -1,6 +1,6 @@
 ## Hi, I’m @jmisilo 👋
 
-🥰 A passionated Full Stack DS/ML Engineer. Something about me:
+🥰 DS/DEV passionated about AI. Something about me:
 
 - 👀 I’m interested in math, machine learning, nlp, computer vision, front-end development.
 - 🛠️ I'm currently working in [New Native](newnative.ai) as Junior Data Scientist.
