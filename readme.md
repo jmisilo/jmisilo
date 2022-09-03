@@ -11,7 +11,7 @@ My tech stack:
 
 🤖 Data Science: PyTorch, YOLO, HuggingFace, spaCy, W&B, MongoDB, Prisma, Pandas, NumPy, Matplotlib, Seaborn<br>
 🖥 Web Dev: React.js, FastAPI, Next.js, SCSS, Tailwind CSS<br>
-➕ Discord.py/js<br>
+➕ Discord.py/js, Docker<br>
 
 
 ⚽ My goal is to build web projects powered with AI
