@@ -1,6 +1,6 @@
 ## Hi, I’m @jmisilo 👋
 
-🥰 DS/DEV passionated about AI. Something about me:
+🥰 DEV passionated about AI. Something about me:
 
 - 👀 I’m interested in math, machine learning, nlp, computer vision.
 - 🛠️ I'm currently working at [New Native](https://newnative.ai) as Junior Data Scientist.
