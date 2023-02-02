@@ -13,7 +13,7 @@ My tech stack:
 PyTorch, HuggingFace, YOLO, spaCy, W&B, SQL, MongoDB, Prisma, Pandas, NumPy, Matplotlib, Seaborn
 
 🖥 Web:<br>
-FastAPI, Next.js, Tailwind CSS
+FastAPI, Next.js, TypeScript, Tailwind CSS
 
 ➕ Additional:<br> 
 Discord.py/js, Docker, Github Actions<br>
