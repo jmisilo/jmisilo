@@ -10,7 +10,7 @@
 My tech stack:
 
 🤖 ML & Data:<br>
-PyTorch, HuggingFace, YOLO, spaCy, W&B, SQL, MongoDB, Prisma, Pandas, NumPy, Matplotlib, Seaborn
+PyTorch, HuggingFace, LangChain, YOLO, spaCy, W&B, SQL, MongoDB, Prisma, Pandas, NumPy, Matplotlib, Seaborn
 
 🖥 Web:<br>
 FastAPI, Next.js, TypeScript, Tailwind CSS
