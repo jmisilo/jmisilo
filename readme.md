@@ -2,23 +2,20 @@
 
 🥰 Dev passionated about AI. Something about me:
 
-- 👀 I’m interested in math, machine learning, nlp, computer vision.
+- 👀 I’m interested in math, ai, automations and software development.
 - 🛠️ I work at [New Native](https://newnative.ai).
-- 📫 I’m currently studying Engineering and Data Analysis at the [Rzeszów University of Technology](https://w.prz.edu.pl/en/).
 - 🔥 You can find me on [@LinkedIn](https://www.linkedin.com/in/jakub-misi%C5%82o-2bb6781ab/)
 
 My tech stack:
 
 🤖 ML & Data:<br>
-PyTorch, HuggingFace, LangChain, YOLO, spaCy, W&B, SQL, MongoDB, Prisma, Pandas, NumPy, Matplotlib, Seaborn
+PyTorch, HuggingFace, LangChain, OpenAI's GPTs, Cohere YOLO, spaCy, W&B, SQL, MongoDB, Prisma, Pandas, NumPy, Matplotlib, Seaborn
 
 🖥 Web:<br>
-FastAPI, Next.js, TypeScript, Tailwind CSS
+FastAPI, Next.js, TypeScript, Tailwind CSS, Jest
 
 ➕ Additional:<br> 
-Discord.py/js, Docker, Github Actions<br>
+Discord.py/js, Docker, Github Actions, Make.com, n8n<br>
 
 
 ⚽ My goal is to build AI-powered projects and explore its possibilities!
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jmisilo&theme=github-dark-blue&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
