@@ -3,7 +3,7 @@
 🥰 Dev passionated about AI. Something about me:
 
 - 👀 I’m interested in math, ai, automations and software development.
-- 🛠️ I work at [New Native](https://newnative.ai).
+- 🛠️ I work at [knm](https://knmstudio.com).
 - 🔥 You can find me on [@LinkedIn](https://www.linkedin.com/in/jakub-misi%C5%82o-2bb6781ab/)
 
 My tech stack:
